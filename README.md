@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aniket Dubey
 #### I am a Software Developer
-![I am a Software Developer](https://files.oaiusercontent.com/file-cxFXOWpjq2v10h9fYs2LhOaR?se=2024-10-16T10%3A23%3A58Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Ddc760fbc-d0d6-4aa3-b1e4-88298c7e9ea7.webp&sig=1yQSxRuwEtOL5r7Tgl06DqFAehLPqZIjUf5%2BRuKJvpo%3D)
+![I am a Software Developer](https://unsplash.com/photos/a-laptop-computer-with-a-bunch-of-different-screens-on-top-of-it-XV2kGdTo9II)
 
 I am a recent MCA graduate with a strong background in software development, proficient in Java, C++, and JavaScript. I have worked on projects like the Plantree e-commerce Android app and am skilled in mobile and web development using tools like Android Studio, React.js, and Firebase.
 
